@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "photo": "https://marita03.github.io/clase10.2/img/velare3.webp",
+      "title": "Velare",
+      "category": "2025",
+      "description": "Es una estructura de exhibición diseñada para instalarse al interior de un escaparate o window display, ubicado en la fachada de una tienda. Su función es enmarcar y destacar prendas y accesorios, transformando la vitrina en una experiencia visual que invita a detenerse y observar."
+    },
+    {
+      "photo": "https://marita03.github.io/clase10.2/img/pauu3.webp",
+      "title": "Pauu",
+      "category": "2023",
+      "description": "Arnés con diseño ilustrado identitario de la Vega. Incluye sistema QR de identificación y registro histórico de cuidados de cada perro."
+    },
+    {
+      "photo": "https://marita03.github.io/clase10.2/img/arboles3.webp",
+      "title": "Külla-Mawida",
+      "category": "2024",
+      "description": "Cápsulas miniatura de árboles nativos de Huilo Huilo, que resaltan la singularidad de cada árbol."
+    },
+    {
+      "photo": "https://marita03.github.io/clase10.2/img/larun3.webp",
+      "title": "Larún",
+      "category": "2023",
+      "description": "Sistema de soporte portátil diseñado para manipularse con los pies, ajustable a la anatomía del usuario."
+    },
+    {
+      "photo": "https://marita03.github.io/clase10.2/img/conmigo3.webp",
+      "title": "Conmigo",
+      "category": "2025",
+      "description": "Prenda calmante para perros que viajan en la bodega del avión."
+    },
+    {
+      "photo": "https://marita03.github.io/clase10.2/img/boomerang3.webp",
+      "title": "Boomerang",
+      "category": "2024",
+      "description": "Pieza hecha con biomateriales, ocupando borra de café."
+    },
+    {
+      "photo": "https://marita03.github.io/clase10.2/img/bolso3.webp",
+      "title": "Bolso",
+      "category": "2024",
+      "description": "Confección de bolso para computador con serigrafía."
+    },
+    {
+      "photo": "https://marita03.github.io/clase10.2/img/poleron3.webp",
+      "title": "Polerón",
+      "category": "2025 - En proceso",
+      "description": "Prenda de mi confección."
+    }
+  ],
+  "id": "72a0a513-be36-4a6c-b360-812151ac4e75",
+  "version": 1
+}
